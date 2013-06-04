@@ -1,2 +1,2 @@
 ## Python sample code
-### Codigbat Resulution code
+### Codigbat solution code
