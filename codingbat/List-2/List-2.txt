@@ -1,0 +1,2 @@
+Medium python list problems -- 1 loop.. Use a[0],
+a[1], ... to access elements in a list, len(a) is the length.
