@@ -12,4 +12,4 @@ The python codes I did.
 ####除算 (÷)を減算 (−)にする
 
 ![除算 (÷)=>減算 (−)](http://i.imgur.com/i4aDp3c.png "除算 (÷)=>減算 (−)")
-![除算 (÷)=>減算 (−)](http://i.imgur.com/oMqwiKWl.png "除算 (÷)=>減算 (−)")
+![除算 (÷)=>減算 (−)](http://i.imgur.com/oMqwiKW.png "除算 (÷)=>減算 (−)")
